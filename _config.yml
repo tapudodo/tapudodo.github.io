@@ -18,14 +18,14 @@ description: Zheyi Yang is a Ph.D. student at Ensta Paris. His research lies in 
 enable_last_update: false
 
 # Links
-google_scholar: https://scholar.google.com/citations?user=Uf9GqRsAAAAJ
-cv_link: https://pages.jh.edu/yliu538/files/Yaoyao_Liu_Curriculum_Vitae.pdf
-github_link: https://github.com/yaoyao-liu/
-linkedin: https://www.linkedin.com/in/liuyaoyao/
+google_scholar: https://scholar.google.com/citations?user=a80R7JcAAAAJ
+cv_link: ./assets/cv/Zheyi_Yang_CV_en.pdf
+github_link: https://github.com/tapudodo/
+linkedin: https://www.linkedin.com/in/zheyi-yang-a97619120/
 # twitter: https://twitter.com/YaoyaoLiu1/
 
 # Images 
-avatar: ./assets/avatar.jpg
+avatar: ./assets/img/avatar.jpg
 # favicon: ./assets/img/favicon.png
 # favicon_dark: ./assets/img/favicon-dark.png
 

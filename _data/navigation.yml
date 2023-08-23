@@ -5,7 +5,7 @@ main:
     right: true 
 
   - title: "Talks"
-   url: ./#talks
+    url: ./#talks
 
   - title: "Publications"
     url: ./#publications

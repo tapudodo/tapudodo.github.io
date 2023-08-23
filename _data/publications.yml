@@ -1,7 +1,7 @@
 main:
 
   - title: SpinDoctor-IVIM":"" An in-silico imaging framework for intravoxel incoherent motion MRI
-    authors: Mojtaba Lashgari, <strong>Zheyi Yang<strong>, Miguel O. Bernabeu, Jing-Rebecca Li, Alejandro F. Frangi
+    authors: Mojtaba Lashgari, <strong>Zheyi Yang</strong>, Miguel O. Bernabeu, Jing-Rebecca Li, Alejandro F. Frangi
     conference_short: IEEE Trans. Med. Imaging.
     conference: Under review.
     # pdf: https://arxiv.org/pdf/2306.08103.pdf
@@ -9,7 +9,7 @@ main:
     # image: https://img.yliu.me/teaser/dst.png
 
   - title: A simulation-driven supervised learning framework to estimate brain microstructure using diﬀusion MRI
-    authors: Chengran Fang, <strong>Zheyi Yang<strong>, Demian Wassermann, Jing-Rebecca Li
+    authors: Chengran Fang, <strong>Zheyi Yang</strong>, Demian Wassermann, Jing-Rebecca Li
     conference_short: Med. Image Anal.
     conference: Under review.
     # pdf: https://arxiv.org/pdf/2010.05063.pdf
@@ -20,7 +20,7 @@ main:
     # others: '<a href="https://github.com/yaoyao-liu/class-incremental-learning/tree/main/adaptive-aggregation-networks" target="_blank" rel="noopener"><strong> <i style="color:#e74d3c; font-weight:600" id="githubstars_manets"></i><i style="color:#e74d3c; font-weight:600"> GitHub Stars</i></strong></a><script>githubStars("yaoyao-liu/class-incremental-learning", function(stars) {var startext = document.getElementById("githubstars_manets"); startext.innerHTML=stars;});</script>'
 
   - title: Incorporating interface permeability into the diffusion MRI signal representation using impermeable Laplace eigenfunctions
-    authors: <strong>Zheyi Yang<strong>, Chengran Fang, Jing-Rebecca Li
+    authors: <strong>Zheyi Yang</strong>, Chengran Fang, Jing-Rebecca Li
     conference_short: Phys. Med. Biol.
     conference: IOP Physics in Medicine & Biology, Volume , Number , 2023.
     pdf: 10.1088/1361-6560/acf022
@@ -28,7 +28,7 @@ main:
     # image: https://img.yliu.me/teaser/tnnls.png
 
   - title: Asymptotic models of the diﬀusion MRI signal accounting for geometrical deformations
-    authors: <strong>Zheyi Yang<strong>, Imen Mekkaoui, Jan Hesthaven, Jing-Rebecca Li
+    authors: <strong>Zheyi Yang</strong>, Imen Mekkaoui, Jan Hesthaven, Jing-Rebecca Li
     conference_short: Maths in Action
     conference: MathematicS In Action, 2022.
     pdf: https://hal.science/hal-03939649/document

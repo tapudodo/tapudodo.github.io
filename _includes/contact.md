@@ -4,7 +4,7 @@
 
 <p><strong>Address:</strong> <a href="https://goo.gl/maps/y12LeWYuFmd8VZVt9">828 Boulevard des Maréchaux, Palaiseau, 91120, France</a>
 <br />
-<strong>Office Location:</strong> Ensta Paris, Room 2.3.12
+<strong>Office Location:</strong> Bâtiment principal, Room 2.3.12
 <br />
 <strong>Email:</strong> <email>zheyi.yang (at) polytechnique.edu</email>
 <br />

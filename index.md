@@ -12,6 +12,8 @@ My research interests include **diffusion MRI**, **Bloch-Torrey equation**, **fi
 
 I obtained my Master degree and diplôme d'ingénieur in electrical engineering, at École Centrale de Pékin. My works are related to **Bayesian optimization** and **plane wave generator design**.
 
+Here is my complete Curriculum vitae [in English](./assets/cv/Zheyi_Yang_CV_en.pdf) and [in French](./assets/cv/Zheyi_Yang_CV_fr.pdf).
+
 <strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am currently on the 2023-2024 academic job market, looking for post-doc positions in Applied mathematics, related to numerical simulation. Please feel free to contact me if you are interested. I am also happy to give talks on my research in related seminars.</strong></strong>
 
 {% include_relative _includes/publications.md %}

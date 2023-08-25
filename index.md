@@ -8,7 +8,9 @@ layout: homepage
 
 I am currently a third-year Ph.D student in Idefix team, the Department of Applied Mathematics at [Ensta Paris](https://uma.ensta-paris.fr/idefix/). My Ph.D supervisor is [Dr. Jing-Rebecca LI](http://www.cmap.polytechnique.fr/~jingrebeccali/) and my Ph.D topic is **Numerical methods to estimate brain micro-structure from diffusion MRI data**. 
 
-My research interests include **diffusion MRI**, **Bloch-Torrey equation**, **finite element**, **asymptotic model** and **microstrucral imaging**.
+My research interests include **diffusion MRI**, **Bloch-Torrey equation**, **numerical simulation**, **finite element**, **asymptotic model** and **microstrucral imaging**.
+
+The courseworks I took during Ph.D. study include Calculus of variations, Transport optimal, Parallel computing, Numerical technologies and algorithms for boundary element method and Introduction to medical imaging.
 
 I obtained my Master degree and diplôme d'ingénieur in electrical engineering, at École Centrale de Pékin. My works are related to **Bayesian optimization** and **plane wave generator design**.
 
